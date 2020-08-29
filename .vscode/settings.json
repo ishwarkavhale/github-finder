@@ -1,0 +1,5 @@
+{
+    "prettier.ignorePath": "",
+    "editor.formatOnSave": true,
+    "prettier.singleQuote": true
+}
